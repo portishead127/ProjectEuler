@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dllaUZAhEq0=",
+  "success": true,
+  "projectFilePath": "/home/aaron/Documents/Projects/ProjectEuler/Problem003/Problem003.csproj",
+  "expectedPackageFiles": [
+    "/home/aaron/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.7/microsoft.aspnetcore.app.ref.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
