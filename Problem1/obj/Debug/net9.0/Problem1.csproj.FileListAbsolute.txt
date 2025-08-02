@@ -1,0 +1,14 @@
+/home/aaron/Documents/Projects/ProjectEuler/Problem1/bin/Debug/net9.0/Problem1
+/home/aaron/Documents/Projects/ProjectEuler/Problem1/bin/Debug/net9.0/Problem1.deps.json
+/home/aaron/Documents/Projects/ProjectEuler/Problem1/bin/Debug/net9.0/Problem1.runtimeconfig.json
+/home/aaron/Documents/Projects/ProjectEuler/Problem1/bin/Debug/net9.0/Problem1.dll
+/home/aaron/Documents/Projects/ProjectEuler/Problem1/bin/Debug/net9.0/Problem1.pdb
+/home/aaron/Documents/Projects/ProjectEuler/Problem1/obj/Debug/net9.0/Problem1.GeneratedMSBuildEditorConfig.editorconfig
+/home/aaron/Documents/Projects/ProjectEuler/Problem1/obj/Debug/net9.0/Problem1.AssemblyInfoInputs.cache
+/home/aaron/Documents/Projects/ProjectEuler/Problem1/obj/Debug/net9.0/Problem1.AssemblyInfo.cs
+/home/aaron/Documents/Projects/ProjectEuler/Problem1/obj/Debug/net9.0/Problem1.csproj.CoreCompileInputs.cache
+/home/aaron/Documents/Projects/ProjectEuler/Problem1/obj/Debug/net9.0/Problem1.dll
+/home/aaron/Documents/Projects/ProjectEuler/Problem1/obj/Debug/net9.0/refint/Problem1.dll
+/home/aaron/Documents/Projects/ProjectEuler/Problem1/obj/Debug/net9.0/Problem1.pdb
+/home/aaron/Documents/Projects/ProjectEuler/Problem1/obj/Debug/net9.0/Problem1.genruntimeconfig.cache
+/home/aaron/Documents/Projects/ProjectEuler/Problem1/obj/Debug/net9.0/ref/Problem1.dll
