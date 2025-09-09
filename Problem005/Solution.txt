@@ -1,0 +1,14 @@
+I found that working with proper maths was easier for this question.
+
+2520 = 2^3 * 3^2 * 5 * 7
+
+2520 contains the prime factors needed for each of the numbers from 1 -> 10's prime factors.
+E.g:
+
+4 = 2^2 (2520 contains 2^3 so that's ok)
+7 = 7 (2520 contains 7)
+8 = 2^3 (2520 contains 2^3)
+
+Following this logic I just need to find the extra stuff I needed to add onto 2520.
+
+2520 * 2 * 11 * 13 * 17 * 19 = 232792560 (wow big number)
