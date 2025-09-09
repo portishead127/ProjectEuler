@@ -1,4 +1,8 @@
-﻿int target = 100;
+﻿//Ans - 25164150
+
+int target = 100;
+int sumOfSquares = SumOfSquares();
+int squareOfSum = SquareOfSum();
 
 int SumOfSquares(){
   int total = 0;
@@ -16,6 +20,6 @@ int SquareOfSum(){
   return total * total;
 }
 
-Console.WriteLine("Sum of squares: " + SumOfSquares());
-Console.WriteLine("Square of sum: " + SquareOfSum());
+int ans = squareOfSum - sumOfSquares;
+Console.WriteLine(ans);
 
