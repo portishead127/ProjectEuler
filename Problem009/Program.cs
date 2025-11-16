@@ -7,7 +7,7 @@ for(double a = 1; a < maxC; a++){
   for(double b = 1; b < maxC; b++){
     double cSquared = a*a + b*b;
     if(isPerfectSquare(cSquared)){
-      if(CheckEligibility(a,b,Math.Sqrt(cSquared))) return;
+      CheckEligibility(a,b,Math.Sqrt(cSquared));
     }
   }
 }
@@ -18,11 +18,9 @@ bool isPerfectSquare(double num){
   return false;
 }
 
-bool CheckEligibility(double a, double b, double c){
+void CheckEligibility(double a, double b, double c){
   if(a + b + c == 1000) {
-    Console.WriteLine(a + "+" + b + "+" + c + "=" + 1000);
-    return true;
+    Console.WriteLine(a*b*c);
   }
-  return false;
 }
 

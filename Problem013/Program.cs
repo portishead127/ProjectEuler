@@ -6,5 +6,5 @@ for(int i = 0; i < big.Length; i++){
   long currentNum = long.Parse(big[i].Substring(0,10));
   sumOfBigs += currentNum;
 }
-string stringifiedInt = sumOfBigs.ToString();
-Console.WriteLine(stringifiedInt);
+
+Console.WriteLine(sumOfBigs);
